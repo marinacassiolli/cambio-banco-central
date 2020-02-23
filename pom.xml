@@ -11,6 +11,7 @@
 	<groupId>br.com.fiap.nubank</groupId>
 	<artifactId>cambio-banco-central</artifactId>
 	<version>1</version>
+	<!-- 	<packaging>jar</packaging> -->
 	<name>cambio-banco-central</name>
 	<description>Microsserviço para busca de cambio com PTAX na API do Banco Central</description>
 
